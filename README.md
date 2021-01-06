@@ -1,0 +1,2 @@
+# Test_MdmtConfig
+GitHubでの構成管理を練習するリポジトリ
