@@ -6,3 +6,5 @@ df = pd.DataFrame("hogehoge.csv")
 print(df.head)
 
 print(df.iloc[0])
+print(df.iloc[1])
+
